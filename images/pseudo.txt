@@ -1,0 +1,31 @@
+Request user to write positive numbers repeatedly until the enters zero
+ 
+If the user enters positive numbers repeatedly until the enters zero
+	Print "largest output number"
+
+Create an input that stores the arbitrary number of intergers
+Request users to enter the "arbitrary number "
+
+If user enters arbitrary number 
+	return"average arithmetic"
+
+
+Create the user input that stores the grocery products in alphabetical order 
+
+Request users to input grocery products
+	print"grocery input products"
+
+Stop the Program
+
+
+
+Start the program
+ Create an input that stores the X, Y
+
+Use X & Y to do create equation "SAP"
+	print"SAP"
+
+Stop the program
+
+
+
